@@ -1,0 +1,32 @@
+<GP5W-Shell - Remote Service Terminal>
+<Starting GSM Mail...>
+<Wake OK...>
+#900272 (01): -> Manual GSM
+#900272 (02): -> GSM Login...
+#900272 (03): -> Modem On
+#900272 (04): -> Power OK
+#900272 (05): -> No PIN required
+#900272 (06): -> Register...
+#900272 (07): -> Wait (0)..
+#900272 (08): -> Wait (0)..
+#900272 (09): -> Wait (0)..
+#900272 (10): -> Wait (0)..
+#900272 (11): -> Wait (0)..
+#900272 (12): -> Wait (0)..
+#900272 (13): -> Wait (0)..
+#900272 (14): -> Home Net
+#900272 (15): -> Signal: 16
+#900272 (16): -> GSM Transfer
+#900272 (17): -> Warning: Data Size limited!
+#900272 (18): -> 0 Bytes Data
+#900272 (19): -> Connect GPRS
+#900272 (20): -> Connected to Internet
+#900272 (21): -> Connect Server
+#900272 (22): -> Server OK
+#900272 (23): -> GPRS Transfer(46 Bytes)
+#900272 (24): -> Awaiting Reply
+#900272 (25): -> Reply: Accepted
+#900272 (26): -> Transfer OK
+#900272 (27): -> GSM Logoff
+#900272 (28): -> Power Off
+#900272 (29): -> GSM Errors: 0 (Server.: 0/16778243)

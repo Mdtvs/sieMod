@@ -1,0 +1,21 @@
+at
+OK
+AT+COPS?
++COPS: 0,0,"TELE2"
+
+OK
+AT^SCID
+^SCID: 89701203064900027671
+
+OK
+AT+CSQ
++CSQ: 18,99
+
+OK
+AT+CCLK?
++CCLK: "02/01/01,00:01:10"
+
+OK
+at
+
+симка для резерва

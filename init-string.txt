@@ -1,0 +1,20 @@
+
+AT+IPR=9600
+*99***1# Siemens
+
+tele2
+AT+CGDCONT=1,"IP","INTERNET.TELE2.RU"
+no username 
+no password
+
+
+mts
+AT+CGDCONT=1,"IP","INTERNET.MTS.RU"
+username mts 
+password mts
+
+
+megafon
+AT+CGDCONT=1,"IP","INTERNET"
+username gdata
+password gdata
